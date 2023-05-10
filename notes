@@ -1,0 +1,34 @@
+{
+    "0": "masterpiece, a cat and a man wearing sunglasses, morning sunshine, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg ",
+    "30": "masterpiece, a tiger and a zombie wearing top hats, starry night, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "60": "masterpiece, a dragon and an alien laughing, shooting stars, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "90": "masterpiece, two monsters having tea, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "120": "masterpiece, a frog eating a fly, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "150": "masterpiece, the universe in a dogs eye, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "180": "masterpiece, a solar system forming, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "210": "masterpiece, an earth-like world, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --ne",
+    "240": "masterpiece, a birds-eye view of a desolated city, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "270": "masterpiece, the penthouse of an abandoned building, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "300": "masterpiece, a creepy room with a empty rocking chair, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "330": "masterpiece, a ghost materializing in a rocking chair, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "360": "masterpiece, a close-up of a laughing skull, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "390": "masterpiece, a castle made of teeth, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "420": "masterpiece, armies marching out of castles, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "450": "masterpiece, a medieval battle field strewn with bodies, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "480": "masterpiece, a crow perched on the face of a corpse, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "510": "masterpiece, the reflection of a cats face in a human eye, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "540": "masterpiece, a cat climbing into the lap of a seated man, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "570": "masterpiece, a man lifting a purring cat to his face to kiss it, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg",
+    "600": "masterpiece, a close up of the faces of a man and his cat, perspective view, full HD, vibrant colors, dynamic lighting, ultra high detail, dramatic lighting, movie poster style, asymmetric composition, ultra detailed, photorealistic, unreal engine, art by Fletcher Bonds --neg"
+ }
+
+Strength schedule: 0: (0.65), 25: (0.55)
+Motion
+Translation X: 0:(0), 30:(15), 210:(15), 300:(0)
+Translation Y: 0:(0)
+Translation Z: 0:(0.2), 60:(10), 300:(15) Rotation 3D X: 0:(0), 60:(0), 90: (0.5), 180:(0.5), 300:(0.5)
+Rotation 3D Y: 0:(0), 30:(-3.5), 90:(-2.5), 180:(-2.8), 300:(-2), 420:(0)
+Rotation 3D Z:  0:(0), 60:(0.2), 90:(0), 180:(-0.5), 300:(0), 420:(0.5), 500:(0.8)
+
+Field of View: 0:(120) Noise: 0:(-0.06*(cos(3.141*t/15)**100)+0.06)
+Anti blur: 0:(0.05)
